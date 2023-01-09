@@ -1,4 +1,4 @@
-# Tailwid CSS Crash Course
+# TailwindCSS Crash Course
 
 I am following a crash course on building a landing page using tailwindcss (course taught by BradTraversy)
 
