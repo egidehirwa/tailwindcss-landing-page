@@ -8,7 +8,7 @@ The YouTube tutorial : https://www.youtube.com/watch?v=dFgzHOX84xQ
 
 The aim of this course is to get up to speed with tailwindcss because we will be using it for our group project at BeCode.
 
-## Step 1 - Code along finished
+## Step 1 - Code-along completed
 
 I have completed the tutorial and everything works fine
 The next step will be to add some customizations on the design
